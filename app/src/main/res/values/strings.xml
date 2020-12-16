@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="courseListFilePath">assets/CSUMB_CS_COURSELIST.csv</string>
+    <string name="fileName">CSUMB_CS_COURSELIST.csv</string>
+</resources>
